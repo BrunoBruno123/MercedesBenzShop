@@ -52,9 +52,9 @@
 }
 .mid-section div {
     display: grid;
-    grid-template-columns: repeat(3, 1fr); /* 3 per row */
-    gap: 20px; /* spacing between images */
-    text-align: center; /* keeps text centered */
+    grid-template-columns: repeat(3, 1fr); 
+    gap: 20px; 
+    text-align: center;
 }
 .mid-section img {
     width: 45%;
