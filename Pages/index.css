@@ -1,8 +1,36 @@
-nav{
-    width: 80%;
-    margin: 0 auto;
-    overflow: hidden;
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 .footer-text{
     text-align: center;
+}
+.logo {
+  
+    height: 70px; 
+    width: auto;
+}
+.nav-li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 30px;
+    
+}
+.nav-li li a {
+    text-decoration: none;
+}
+/* --- Main Hero Section --- */
+.top-section {
+    margin-bottom: 40px;
+    padding: 10px;
+    margin-left: 350px;
+}
+
+.top-section img {
+    width: 45%;
+    height: auto;
+    display: block;
 }
