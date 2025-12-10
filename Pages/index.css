@@ -34,3 +34,13 @@
     height: auto;
     display: block;
 }
+.top-section {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.top-section .images {
+    display: flex;
+    gap: 10px;
+}
