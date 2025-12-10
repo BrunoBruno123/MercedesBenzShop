@@ -60,6 +60,7 @@
     width: 45%;
     height: auto;
     display: block;
+    border-radius: 50%;
 }
 .mid-section {
     display: flex;
