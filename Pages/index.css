@@ -44,3 +44,25 @@
     display: flex;
     gap: 10px;
 }
+
+.mid-section {
+    margin-bottom: 40px;
+    padding: 10px;
+    margin-left: 350px;
+}
+
+.mid-section img {
+    width: 45%;
+    height: auto;
+    display: block;
+}
+.mid-section {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.mid-section .images {
+    display: flex;
+    gap: 10px;
+}
