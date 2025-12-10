@@ -71,3 +71,8 @@
     display: flex;
     gap: 10px;
 }
+.bottom-section{
+    margin-bottom: 40px;
+    padding: 10px;
+    margin-left: 350px;
+}
